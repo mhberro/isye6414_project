@@ -1,0 +1,9 @@
+varName,varTitle
+NPT41_PRIV,"Average net price for $0-$30,000 family income (private for-profit and nonprofit institutions)"
+NPT4_048_PRIV,"Average net price for $0-$48,000 family income (private for-profit and nonprofit institutions)"
+NUM41_PRIV,"Number of Title IV students, $0-$30,000 family income (private for-profit and nonprofit institutions)"
+NUM42_PRIV,"Number of Title IV students, $30,001-$48,000 family income (private for-profit and nonprofit institutions)"
+NUM43_PRIV,"Number of Title IV students, $48,001-$75,000 family income (private for-profit and nonprofit institutions)"
+NUM44_PRIV,"Number of Title IV students, $75,001-$110,000 family income (private for-profit and nonprofit institutions)"
+NUM45_PRIV,"Number of Title IV students, $110,000+ family income (private for-profit and nonprofit institutions)"
+STABBR,State postcode
